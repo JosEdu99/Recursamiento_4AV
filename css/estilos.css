@@ -27,3 +27,9 @@
 body {
     font-family: "Helvetica Neue", "Helvetica", "sans-serif";
 }
+
+#encabezado {}
+
+#encabezado>.titulos {}
+
+#navbar {}
